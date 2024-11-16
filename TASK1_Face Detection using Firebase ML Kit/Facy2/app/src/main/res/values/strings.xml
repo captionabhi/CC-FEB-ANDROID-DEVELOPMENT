@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facy</string>
+    <string name="ml_face_detection">Ml Face Detection</string>
+    <string name="ok">OK</string>
+    <string name="camera">camera</string>
+    <string name="hello">hello</string>
+    <string name="todo">TODO</string>
+</resources>
